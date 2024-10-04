@@ -1,11 +1,11 @@
 # Landing Page Barbearia
 
-Este projeto é uma landing page desenvolvida para uma barbearia, utilizando HTML, CSS, Sass e a biblioteca AOS (Animate On Scroll). O layout é moderno, responsivo e contém seções para apresentar os serviços da barbearia.
+Este projeto é uma landing page desenvolvida para uma barbearia, criado pelo utilizando HTML, CSS, Sass e a biblioteca AOS (Animate On Scroll). O layout é moderno, responsivo e contém seções para apresentar os serviços da barbearia.
 
 ## Tecnologias Utilizadas
 
   - HTML5: para a estrutura da página.
-  - 
+
   - CSS3: para estilização e layout responsivo.
     
 	-	Sass: pré-processador CSS (usando a sintaxe indentada) para facilitar a manutenção e modularização do código.
@@ -17,3 +17,7 @@ Este projeto é uma landing page desenvolvida para uma barbearia, utilizando HTM
   - Design Responsivo: A página se adapta a diferentes tamanhos de tela (desktop, tablet e mobile).
     
   - Animações com AOS: As seções da página são animadas à medida que o usuário faz o scroll.
+
+## Créditos
+
+Este projeto foi inspirado nas aulas do canal Sujeito Programador. Recomendo fortemente o conteúdo para quem deseja aprender sobre desenvolvimento web e programação
